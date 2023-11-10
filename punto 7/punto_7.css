@@ -1,0 +1,26 @@
+/*punto 7*/
+.p7_nav{
+    background-color: pink;
+}
+.p7_nav ul{
+    display: inline-flex;
+}
+.p7_nav li{
+    padding: 10px;
+    list-style: none;
+}
+.p7_nav li:hover{
+    background-color: blue;
+}
+
+.p7_nav a:hover{
+    color:red;
+}
+.p7_nav a{
+    color: white;
+}
+#nombre {
+    color: black;
+    font-size: medium;
+    text-align: left;
+}   

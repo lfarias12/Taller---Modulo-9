@@ -1,0 +1,19 @@
+/*Punto 4*/
+body {
+    background-color: #E2DEDD;
+    margin: 5%;
+    text-align: center;
+    max-width: 30%;
+}
+
+.punto4_azul {
+    color: #002BE5;
+}
+
+.punto4_rojo {
+    color: #FF0000;
+}
+
+.nombre {
+    color: #8B29E6;
+}
